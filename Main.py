@@ -27,7 +27,7 @@ class LinkedList:
         -> self.head - contains first node of LinkedList, None if list empty
     """
 
-    def _init_(self):
+    def __init__(self):
         """
         Initialize the head
         """
