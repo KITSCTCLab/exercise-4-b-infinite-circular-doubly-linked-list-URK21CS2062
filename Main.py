@@ -17,7 +17,6 @@ class Node:
         self.next = next
 
 
-        
 class LinkedList:
     """
     This class implements LinkedList using Node objects
