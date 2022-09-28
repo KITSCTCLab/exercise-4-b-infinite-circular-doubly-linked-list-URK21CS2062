@@ -9,4 +9,4 @@ outlist.append(circular_linked_list[i]) for i in range(5,length_of_circular_link
 if circular_linked_list[0]!=circular_linked_list[i]:
 count+=1
 outlist.append(circular_linked_list[i]) elif circular_linked_list[0]==circular_linked_list[i]:
-break print(count) for i in outlist: print(i,end=' ') 
+break print(count) for i in outlist: print(i,end=' ')
